@@ -13,3 +13,7 @@ In this project i maded a QR Code Generator using the npm packages qr-images and
 
 
 This was part of me practicing the use of  the npm express and ejs. Making a small project telling according the day if was a weekday to work hard or if was a weekend to have some fun.
+
+**4.1 EJS Tags**
+
+In this file was practicing and learning the differences between each EJS Tags and what they do.
