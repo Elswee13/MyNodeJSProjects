@@ -9,11 +9,15 @@ In this project i maded a QR Code Generator using the npm packages qr-images and
 
 ![qrgeneratorprj](https://github.com/Elswee13/MyNodeJSProjects/assets/77897104/3d247373-69c6-416b-9b7e-c29655341433)
 
-**4.0 EJS**
+**EJS**
 
 
 This was part of me practicing the use of  the npm express and ejs. Making a small project telling according the day if was a weekday to work hard or if was a weekend to have some fun.
 
-**4.1 EJS Tags**
+**EJS Tags**
 
 In this file was practicing and learning the differences between each EJS Tags and what they do.
+
+EJS Passing Data
+
+In this small practice i was using npm express and ejs to pass data between client to server and server to client.
