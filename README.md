@@ -24,7 +24,7 @@ In this small practice i was using npm express and ejs to pass data between clie
 
 **EJS Partials and Layout**
 
-
+In this project i was practicing the Partials, how to call them with the EJS tags and using them.
 
 **Band Generator Name**
 
