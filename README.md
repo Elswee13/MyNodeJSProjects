@@ -21,3 +21,12 @@ In this file was practicing and learning the differences between each EJS Tags a
 EJS Passing Data
 
 In this small practice i was using npm express and ejs to pass data between client to server and server to client.
+
+**EJS Partials and Layout**
+
+
+
+**Band Generator Name**
+
+
+![BandGenerator](https://github.com/Elswee13/MyNodeJSProjects/assets/77897104/4c299829-821e-4171-9afa-b18fafb8edb6)
